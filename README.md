@@ -53,6 +53,8 @@ Geographic performance comparison
 
 Presentation
 Visualizations for business stakeholders using tableau public
+[example_tableau_public](https://public.tableau.com/app/profile/oussama.bsr/viz/Rockbustersgeographicaldistributionofcustomersandtherevenuegenerated/Sheet1)
+
 
 Data dictionary for technical teams
 

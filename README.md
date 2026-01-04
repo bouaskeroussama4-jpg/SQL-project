@@ -1,4 +1,4 @@
-#0969DA SQL-project
+#0969DASQL-project
 Rockbuster Stealth SQL Analysis – Project Overview
 # Introduction
 This project is part of the CareerFoundry Data Analytics program and focuses on analyzing the Rockbuster Stealth LLC movie rental database. Rockbuster Stealth is a global film rental company preparing to launch an online streaming platform to remain competitive against major players such as Netflix and Amazon Prime.

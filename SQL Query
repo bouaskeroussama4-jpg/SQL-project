@@ -1,4 +1,4 @@
-################# step 1
+################## step 1
 WITH top_countries AS ( 
     SELECT D.country 
     FROM customer A 
